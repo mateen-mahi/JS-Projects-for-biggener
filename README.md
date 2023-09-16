@@ -15,7 +15,7 @@ Welcome to the JavaScript Projects for Beginners repository! This collection of 
    - **Instructions:** Open the project folder and follow the instructions in the README.md file to get started.
 
 3. **Custom Cursor**
-   - **Description:** Explore mouse move events and how to use `e.target` by creating a custom cursor effect.
+   - **Description:** Explore mouse move events and how to use `e object` by creating a custom cursor effect.
    - **Project Folder:** [Custom Cursor](/custom-cursor)
    - **Instructions:** Open the project folder and follow the instructions in the README.md file to get started.
 
@@ -86,5 +86,3 @@ We hope you find these projects helpful in your journey to understand the DOM an
 
 
 
-
-This README file provides an overview of the repository, a list of projects with descriptions and links to their respective folders, general instructions for getting started, guidance on contributing, and a section for feedback and support. You can replace `[Project Folder](/project-folder)` with the actual links to your project folders.
